@@ -1,2 +1,2 @@
-# DNN-learning
+# DNN
 This is just a test
